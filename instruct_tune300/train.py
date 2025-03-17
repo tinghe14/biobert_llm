@@ -11,7 +11,7 @@ device_index = Accelerator().process_index
 device_map = {"": device_index}
 import os
 
-token = '' # your token
+token = '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' # your token
 output_dir = "/content/output/Llama-3-8B-Instruct" #"./models/Llama-3-8b-mix-2epoch"
 model_name = "meta-llama/Meta-Llama-3-8B-Instruct"
 
