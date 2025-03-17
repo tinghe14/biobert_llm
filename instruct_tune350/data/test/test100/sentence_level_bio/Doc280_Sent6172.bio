@@ -1,0 +1,17 @@
+RANGING	O
+IN	O
+SIZE	O
+FROM	O
+LESS	O
+THAN	O
+0	B-tumorsize
+.	I-tumorsize
+1	I-tumorsize
+CM	I-tumorsize
+TO	O
+ABOUT	O
+0	B-tumorsize
+.	I-tumorsize
+4	I-tumorsize
+CM	I-tumorsize
+.	O

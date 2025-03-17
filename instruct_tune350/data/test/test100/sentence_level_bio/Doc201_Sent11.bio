@@ -1,0 +1,13 @@
+On	O
+sectioning	O
+,	O
+the	O
+.	O
+tumor	O
+has	O
+a	O
+maximal	O
+thickness	O
+of	O
+0	B-tumorsize
+.	I-tumorsize

@@ -1,0 +1,13 @@
+DUCTAL	O
+CARCINOMA	O
+IN	O
+SITU	O
+(	O
+DCIS	O
+)	O
+IS	O
+4	B-tumorsize
+.	I-tumorsize
+0	I-tumorsize
+MM	I-tumorsize
+.	O

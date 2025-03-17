@@ -1,0 +1,6 @@
+The	O
+main	O
+tumor	O
+measures	O
+10	B-tumorsize
+.	I-tumorsize

@@ -1,0 +1,16 @@
+THE	O
+CARCINOMA	O
+EXTENDS	O
+INTO	O
+RENAL	O
+VEIN	O
+FORMING	O
+AN	O
+ADDITIONAL	O
+5	B-tumorsize
+,	I-tumorsize
+0	I-tumorsize
+-	I-tumorsize
+cm	I-tumorsize
+MASS	O
+.	O

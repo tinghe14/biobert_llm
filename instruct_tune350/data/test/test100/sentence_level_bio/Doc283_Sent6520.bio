@@ -1,0 +1,11 @@
+.	B-tumorsize
+5cm	I-tumorsize
+left	O
+splenule	O
+Post	O
+-	O
+Operative	O
+Diagnosis	O
+:	O
+Pheochromocytoma	O
+.	O

@@ -1,0 +1,8 @@
+Angiomyolipoma	O
+,	O
+1	B-tumorsize
+cm	I-tumorsize
+in	O
+greatest	O
+dimension	O
+.	O

@@ -1,0 +1,11 @@
+FIBROTHECOMA	O
+(	O
+1	B-tumorsize
+.	I-tumorsize
+5	I-tumorsize
+CM	I-tumorsize
+IN	O
+MAXIMUM	O
+DIMENSION	O
+)	O
+.	O

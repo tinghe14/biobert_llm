@@ -1,0 +1,12 @@
+The	O
+3	B-tumorsize
+.	I-tumorsize
+5	I-tumorsize
+cm	I-tumorsize
+carcinoma	O
+is	O
+confined	O
+to	O
+the	O
+kidney	O
+.	O

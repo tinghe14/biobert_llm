@@ -1,0 +1,13 @@
+Macroscopic	O
+tumor	O
+size	O
+(	O
+greatest	O
+dimension	O
+)	O
+:	O
+8	B-tumorsize
+.	I-tumorsize
+5	I-tumorsize
+cm	I-tumorsize
+.	O

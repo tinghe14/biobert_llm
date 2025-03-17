@@ -1,0 +1,15 @@
+TUMOR	O
+SIZE	O
+(	O
+LARGEST	O
+NODULE	O
+)	O
+:	O
+Greatest	O
+dimension	O
+:	O
+2	B-tumorsize
+.	I-tumorsize
+5	I-tumorsize
+cm	I-tumorsize
+.	O

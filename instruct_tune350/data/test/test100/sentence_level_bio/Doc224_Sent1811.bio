@@ -1,0 +1,15 @@
+Tumor	O
+size	O
+(	O
+greatest	O
+dimension	O
+)	O
+:	O
+3	B-tumorsize
+.	I-tumorsize
+4	I-tumorsize
+cm	I-tumorsize
+,	O
+gross	O
+measurement	O
+.	O

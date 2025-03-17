@@ -1,0 +1,17 @@
+Choroidal	O
+melanoma	O
+with	O
+epitheloid	O
+cells	O
+measuring	O
+16	B-tumorsize
+mm	I-tumorsize
+main	O
+line	O
+by	O
+12	B-tumorsize
+mm	I-tumorsize
+maximal	O
+.	O
+thickness	O
+.	O

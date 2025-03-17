@@ -1,0 +1,17 @@
+Clinical	O
+Diagnosis	O
+&	O
+History	O
+:	O
+Diagnosed	O
+with	O
+rectal	O
+carcinoma	O
+at	O
+15	B-tumorsize
+cm	I-tumorsize
+on	O
+.	O
+rectal	O
+carcinoma	O
+.	O

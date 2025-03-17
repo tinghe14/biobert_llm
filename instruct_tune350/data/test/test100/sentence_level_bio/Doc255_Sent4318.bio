@@ -1,0 +1,10 @@
+Tumor	O
+identified	O
+(	O
+approximately	O
+.	O
+3	B-tumorsize
+.	I-tumorsize
+cm	I-tumorsize
+)	O
+.	O

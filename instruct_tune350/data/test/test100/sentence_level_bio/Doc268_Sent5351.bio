@@ -1,0 +1,8 @@
+Gross	O
+measurement	O
+:	O
+5	B-tumorsize
+.	I-tumorsize
+0	I-tumorsize
+cm	I-tumorsize
+.	O

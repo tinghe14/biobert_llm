@@ -1,0 +1,17 @@
+-	O
+TUMOR	O
+SIZE	O
+(	O
+GREATEST	O
+DIMENSION	O
+)	O
+:	O
+3	B-tumorsize
+.	I-tumorsize
+0	I-tumorsize
+CM	I-tumorsize
+(	O
+Gross	O
+measurement	O
+)	O
+.	O

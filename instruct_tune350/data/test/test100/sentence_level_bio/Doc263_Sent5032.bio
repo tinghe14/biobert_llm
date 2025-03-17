@@ -1,0 +1,6 @@
+Tumor	O
+Size	O
+:	O
+4	B-tumorsize
+cm	I-tumorsize
+.	O

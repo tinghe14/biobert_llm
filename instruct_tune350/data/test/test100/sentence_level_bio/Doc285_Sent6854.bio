@@ -1,0 +1,11 @@
+TUMOR	O
+SIZE	O
+:	O
+Maximum	O
+dimension	O
+:	O
+6	B-tumorsize
+.	I-tumorsize
+5	I-tumorsize
+cm	I-tumorsize
+.	O

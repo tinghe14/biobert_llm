@@ -1,0 +1,16 @@
+MODERATELY	O
+DIFFERENTIATED	O
+ADENOCARCINOMA	O
+,	O
+3	B-tumorsize
+.	I-tumorsize
+5	I-tumorsize
+CM	I-tumorsize
+,	O
+INVASIVE	O
+INTO	O
+BUT	O
+NOT	O
+THROUGH	O
+THE	O
+.	O

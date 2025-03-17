@@ -1,0 +1,13 @@
+Size	O
+(	O
+on	O
+)	O
+:	O
+7	B-tumorsize
+.	I-tumorsize
+5x6	I-tumorsize
+.	I-tumorsize
+5x4	I-tumorsize
+.	I-tumorsize
+0cm	I-tumorsize
+.	O

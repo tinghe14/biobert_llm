@@ -1,0 +1,8 @@
+Additional	O
+dimension	O
+:	O
+2	B-tumorsize
+.	I-tumorsize
+2	I-tumorsize
+cm	I-tumorsize
+.	O

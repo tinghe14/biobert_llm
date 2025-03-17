@@ -1,0 +1,14 @@
+SIZE	O
+OF	O
+TUMOR	O
+:	O
+Maximum	O
+dimension	O
+invasive	O
+component	O
+:	O
+1	B-tumorsize
+.	I-tumorsize
+3	I-tumorsize
+cm	I-tumorsize
+.	O
