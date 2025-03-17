@@ -1,0 +1,17 @@
+Papillary	O
+thyrold	O
+carcinoma	O
+,	O
+conventional	O
+type	O
+,	O
+(	O
+3	B-tumorsize
+.	I-tumorsize
+5cm	I-tumorsize
+)	O
+,	O
+left	O
+.	O
+lobe	O
+.	O

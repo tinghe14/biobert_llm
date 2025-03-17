@@ -1,0 +1,16 @@
+The	O
+maximum	O
+dimension	O
+of	O
+tumor	O
+implants	O
+outside	O
+the	O
+true	O
+pelvis	O
+is	O
+8	B-tumorsize
+.	I-tumorsize
+0	I-tumorsize
+cm	I-tumorsize
+.	O

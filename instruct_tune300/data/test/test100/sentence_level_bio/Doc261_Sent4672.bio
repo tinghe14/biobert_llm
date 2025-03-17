@@ -1,0 +1,6 @@
+Largest	O
+area	O
+size	O
+3	B-tumorsize
+cm	I-tumorsize
+.	O

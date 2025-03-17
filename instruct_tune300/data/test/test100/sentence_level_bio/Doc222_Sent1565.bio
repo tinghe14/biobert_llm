@@ -1,0 +1,10 @@
+Size	O
+:	O
+5	B-tumorsize
+.	I-tumorsize
+4	I-tumorsize
+cm	I-tumorsize
+by	O
+gross	O
+examination	O
+.	O

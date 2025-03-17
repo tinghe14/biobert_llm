@@ -1,0 +1,17 @@
+3	O
+)	O
+Separate	O
+tumor	O
+focus	O
+located	O
+in	O
+proximal	O
+ureter	O
+(	O
+0	B-tumorsize
+.	I-tumorsize
+7	I-tumorsize
+.	I-tumorsize
+cm	I-tumorsize
+)	O
+.	O

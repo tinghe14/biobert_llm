@@ -1,0 +1,14 @@
+Tumor	O
+size	O
+:	O
+5	B-tumorsize
+X	I-tumorsize
+4	I-tumorsize
+.	I-tumorsize
+5	I-tumorsize
+X	I-tumorsize
+4	I-tumorsize
+.	I-tumorsize
+0	I-tumorsize
+cm	I-tumorsize
+.	O

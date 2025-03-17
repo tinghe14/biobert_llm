@@ -1,0 +1,10 @@
+Small	O
+leiomyoma	O
+of	O
+myometrium	O
+,	O
+0	B-tumorsize
+.	I-tumorsize
+8	I-tumorsize
+cm	I-tumorsize
+.	O

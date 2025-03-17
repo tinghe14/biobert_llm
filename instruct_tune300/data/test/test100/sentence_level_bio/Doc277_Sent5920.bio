@@ -1,0 +1,13 @@
+TUMOR	O
+SIZE	O
+:	O
+Grealestidimension	O
+:	O
+.	O
+:	O
+1	B-tumorsize
+,	I-tumorsize
+2	I-tumorsize
+.	I-tumorsize
+cm	I-tumorsize
+.	O

@@ -1,0 +1,12 @@
+cm	O
+from	O
+the	O
+nipple	O
+,	O
+measuring	O
+20	B-tumorsize
+mm	I-tumorsize
+in	O
+maximum	O
+diameter	O
+.	O

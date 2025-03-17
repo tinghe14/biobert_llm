@@ -1,0 +1,14 @@
+WELL	O
+-	O
+DIFFERENTIATED	O
+KERATINIZING	O
+SQUAMOUS	O
+CELL	O
+CARCINOMA	O
+,	O
+8	B-tumorsize
+.	I-tumorsize
+5	I-tumorsize
+CM	I-tumorsize
+IN	O
+.	O

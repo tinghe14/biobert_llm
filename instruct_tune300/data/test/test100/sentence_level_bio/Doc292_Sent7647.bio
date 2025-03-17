@@ -1,0 +1,17 @@
+RENAL	O
+CELL	O
+CARCINOMA	O
+(	O
+6	B-tumorsize
+.	I-tumorsize
+5	I-tumorsize
+CM	I-tumorsize
+)	O
+,	O
+CONVENTIONAL	O
+(	O
+CLEAR	O
+)	O
+CELL	O
+TYPE	O
+.	O
